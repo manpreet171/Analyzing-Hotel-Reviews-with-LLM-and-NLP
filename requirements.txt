@@ -1,0 +1,9 @@
+pandas
+numpy
+textblob
+matplotlib
+streamlit
+python-dotenv
+nltk
+pandasai
+langchain-groq
